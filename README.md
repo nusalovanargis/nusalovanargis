@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio [https://nargisnusalova.netlify.app](https://nargisnusalova.netlify.app)
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **nusalovanargis@gmail.com**
 
