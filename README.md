@@ -11,10 +11,6 @@ I'm a passionate frontend and mobile developer with over two years of experience
 
 I am currently contributing to projects at [Azericard](https://www.azericard.com/).
 
-## 🌱 What I'm currently learning
-- Expanding my knowledge in backend technologies.
-- Improving my design skills to create more user-friendly interfaces.
-
 ## 💬 Let's connect
 - LinkedIn: [Nargis Nusalova](https://www.linkedin.com/in/nargiznusalova)
 - Instagram: [Nargis Nusalova](https://www.instagram.com/nargisnusalova)
