@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nargis Nusalova</h1>
-<h3 align="center">I'm a passionate frontend and mobile developer with a rich background spanning over two years.I take great pleasure in crafting applications using React.I am deeply passionate about delving into the intricacies of JavaScript</h3>
+<h3 align="center">I take great pleasure in crafting applications using React.I am deeply passionate about delving into the intricacies of JavaScript</h3>
 
 - 🌱 I’m currently learning **Next.js, SQL**
 
