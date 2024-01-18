@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Nargis Nusalova! 👋
 
-<!--
-**nusalovanargis/nusalovanargis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate frontend and mobile developer with over two years of experience. I love creating interactive and user-friendly applications using a variety of technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Frontend:** HTML, CSS, Javascript,Typescript, React
+- **Mobile:** React Native
+- **Version Control:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Work 
+
+I am currently contributing to projects at [Azericard](https://www.azericard.com/).
+
+## 🌱 What I'm currently learning
+- Expanding my knowledge in backend technologies.
+- Improving my design skills to create more user-friendly interfaces.
+
+## 💬 Let's connect
+- LinkedIn: [Nargis Nusalova](https://www.linkedin.com/in/nargiznusalova)
+- Instagram: [Nargis Nusalova](https://www.instagram.com/nargisnusalova)
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration opportunities!
+
+Happy coding! 🚀
