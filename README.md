@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nargis Nusalova</h1>
-<h3 align="center">I'm a passionate frontend and mobile developer with a rich background spanning over two years. My enthusiasm lies in crafting interactive and user-friendly applications, leveraging a diverse set of technologies.</h3>
+<h3 align="center">I'm a passionate frontend and mobile developer with a rich background spanning over two years.I take great pleasure in crafting applications using React.I am deeply passionate about delving into the intricacies of JavaScript</h3>
 
 - 🌱 I’m currently learning **Next.js, SQL**
 
-- 👨‍💻 All of my projects are available at [https://nargisnusalova.netlify.app](https://nargisnusalova.netlify.app)
+- 👨‍💻 My portfolio [https://nargisnusalova.netlify.app](https://nargisnusalova.netlify.app)
 
 - 💬 Ask me about **javascript, react**
 
