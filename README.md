@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nargis</h1>
 <h3 align="center">I take great pleasure in crafting applications using React. I am deeply passionate about delving into the intricacies of JavaScript, Typescript.</h3>
 
-# 💫 About Me:
 💬 Ask me about Javascipt, Typescript, React
 
 ## 🌐 Socials:
